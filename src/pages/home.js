@@ -5,6 +5,8 @@ class Home extends Component {
   return(
     <div className="container-fluid">
 
+      <image src=""></image>
+
     <h1>Home Page Content </h1>
 
     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
